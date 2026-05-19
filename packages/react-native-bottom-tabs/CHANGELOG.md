@@ -1,5 +1,13 @@
 # react-native-bottom-tabs
 
+## 1.2.1
+
+### Patch Changes
+
+- [#508](https://github.com/callstack/react-native-bottom-tabs/pull/508) [`1c5b385`](https://github.com/callstack/react-native-bottom-tabs/commit/1c5b38565c464e612c3be715bded1f8950efc5d4) Thanks [@oscnord](https://github.com/oscnord)! - Fix tvOS compilation due to unavailable APIs
+
+- [#519](https://github.com/callstack/react-native-bottom-tabs/pull/519) [`2ebe13b`](https://github.com/callstack/react-native-bottom-tabs/commit/2ebe13bef3a19b3c4168c741275ff00d96604cd7) Thanks [@thiagobrez](https://github.com/thiagobrez)! - Keep iOS tab transitions smooth when switching between tabs with and without active tint colors.
+
 ## 1.2.0
 
 ### Minor Changes
